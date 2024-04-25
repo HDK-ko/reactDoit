@@ -5,5 +5,5 @@ export default function Icon() {
       <span className="material-icons">home</span>
       <span className="material-icons">check_circle_outline</span>
     </div>
-  );
+  )
 }
